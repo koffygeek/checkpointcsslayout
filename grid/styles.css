@@ -3,7 +3,7 @@
   }
 
 body {
-        background-color: #c3b8ff;
+        background-color: #eaf1f9;
         
       }
 
@@ -12,7 +12,7 @@ body {
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
         grid-template-rows: 1fr 1fr 1fr;
         grid-gap: 10px;
-        background-color: #85b2e8;
+        background-color: #eaf1f9;
         
       }
 
