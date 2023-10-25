@@ -54,10 +54,11 @@ html {
 
 .reviews1 {    
     background-color: beige;
-    height: 250px;
     display: flex;
     align-self: flex-start;
-    align-items: flex-end;
+    position: relative;
+    bottom: -40px;
+    right: 5%;
 }
 
 .reviews2 {   
@@ -71,11 +72,14 @@ html {
 .reviews3 {
     background-color: beige;
     width: 300px;
-    height: 250px;
+    height: 100;
     display: flex;
     align-self: flex-end;
     align-items: flex-start;
     justify-content: center;
+    position: relative;
+    top: -40px;
+    right: -40px;
 }
 
 .down {
